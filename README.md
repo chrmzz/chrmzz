@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chrmzz !
+- 👋 Hi, I’m Chiara Mazza !
 - 👀 As a linguist and translator, I’m manly interested in NLP. I've learned to code in Python on my own during my PhD thesis and my experience working in companies. 
 - 🌱 I’m currently learning how to use Machine Learning to boast my projects perfomances.
 - 💞️ I’m looking to collaborate on NLP projects where my background in theoretical linguistics is valuable to analyse results or data. I believe Machine Learning and Rules-based approaches should coexist and help each other find the best results.
